@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="./core-min.js"></script>
+<script src="./md5-min.js"></script>
+<script src="./wildfire-labs.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-You can use the [editor on GitHub](https://github.com/kenishia/NA-ZCONNEE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for attending this Washington Systems Center(WSC) workshop. 
 
-### Markdown
+The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf) to view it locally.
+  
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCONNEE%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf) to download the presentation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Accessing the hands-on lab
 
-```markdown
-Syntax highlighted code block
+Click [here](Remote Lab System Connection Instructions.pdf) to read the instruction for Remote Desktop access.
 
-# Header 1
-## Header 2
-### Header 3
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/exercises) to view it locally.
 
-- Bulleted
-- List
+The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Please enter your email address used for registration to retrieve your unique log in details.**
 
-[Link](url) and ![Image](src)
-```
+<form onsubmit="return false;">
+<div class="input-group mb-3 col-6">
+<span class="input-group-text" id="basic-addon1">@</span>
+<input type="email" class="form-control" placeholder="Registration Email" aria-label="Email" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
+</div>
+<div class="col-6">
+<button id="btn-submit" class="btn btn-primary" type="submit" onclick="getLab(document.getElementById('registration-email').value)" disabled>Submit</button>
+</div>
+</form>
+<div id="lab" class=".container .text-monospace">
+<em>Note you will need a confirmed registration to access the lab.</em>
+</div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kenishia/NA-ZCONNEE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Help 
+Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
