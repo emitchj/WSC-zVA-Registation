@@ -1,4 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="./core-min.js"></script>
 <script src="./md5-min.js"></script>
 <script src="./wildfire-labs.js"></script>
@@ -14,7 +14,7 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 ## Accessing the hands-on lab
 
-Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for Remote Desktop access.
+Click [here](Remote Lab System Connection Instructions.pdf){:target="_blank"} to read the instruction for Remote Desktop access.
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/exercises){:target="_blank"} to view it locally.
 
@@ -37,4 +37,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Eric Higgins](mailto: higgins@us.ibm.com), [Chris Griego](mailto: cgriego@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
