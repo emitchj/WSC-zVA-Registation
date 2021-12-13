@@ -2,7 +2,7 @@ var lines = [];
 
 $(document).ready(function () {
     $.ajax({
-        url: "labs.csv",
+        url: "labs_new.csv",
         dataType: "text",
         success: function (data) {
             var allTextLines = data.split(/\r\n|\n/);
