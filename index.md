@@ -11,13 +11,13 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf) to view it locally.
   
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCONNEE%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf) to download the presentation.
+Click [here][(https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCONNEE%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCREQUEST%20%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf)) to download the presentation.
 
 ## Accessing the hands-on lab
 
-Click [here](Remote Lab System Connection Instructions.pdf) to read the instruction for Remote Desktop access.
+Click [here](SSA Remote Lab System Connection Instructions.pdf) to read the instruction for Remote Desktop access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/exercises) to view it locally.
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
