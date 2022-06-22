@@ -26,7 +26,7 @@ $(document).ready(function () {
 function validate() {
     document.getElementById('btn-submit').disabled=(document.getElementById('registration-email').value=='');
 }
-//Edited the section below for SSA workshop.  uncomment lines 40 and 43-46 and comment lines 39 and 46 to return.
+//Edited the section below for SSA workshop.  uncomment lines 40 and 44-47 and comment line 39 to return.
 function getLab(email) {
     var hash = String(CryptoJS.MD5(email.trim().toLowerCase()));
     var index = -1;
