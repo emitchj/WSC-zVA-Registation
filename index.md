@@ -16,7 +16,7 @@ All lab instructions for OpenAPI 2 exercises are in the "Exercises for Introduct
 
 The lab instructions for OpenAPI3 exercises are in the "Exercices for OpenAPI3" folder on your remote desktop or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) to view them localy.
 
-The server XML configuration files referenced in the exercises can be downloaded from ([here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view them locally.
+The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view them locally.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
