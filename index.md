@@ -12,7 +12,9 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 Click [here](https://github.com/kenishia/NA-ZCONNEE/blob/main/SSA%20Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
-All lab instructions for OpenAPI 2 exercises are in the "Exercises for Introducton to z/OS Connect" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view them locally. The lab instructions for OpenAPI3 exercises are in the "Exercices for OpenAPI3" folder on your remote desktop or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) to view them localy.
+All lab instructions for OpenAPI 2 exercises are in the "Exercises for Introducton to z/OS Connect" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view them locally. 
+
+The lab instructions for OpenAPI3 exercises are in the "Exercices for OpenAPI3" folder on your remote desktop or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) to view them localy.
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
