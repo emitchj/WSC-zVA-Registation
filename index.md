@@ -14,7 +14,7 @@ Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote
 
 Developing and deploying IBM z/OS Connect artifacts for accessing z/OS resources  using z/OS Connects API requester tooling.
 
-Exercises for generating OpenAPI 2 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPi2  and/or at Github URL https://ibm.biz/BdPbPs.
+Exercises for generating OpenAPI 2 specification documents are available at Box [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
 Exercises for consuming OpenAPI 3 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPI3 and/or at Github URL https://ibm.biz/BdPbPb.
 
