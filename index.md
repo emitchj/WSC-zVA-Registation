@@ -16,11 +16,11 @@ Developing and deploying IBM z/OS Connect artifacts for accessing z/OS resources
 
 Exercises for generating OpenAPI 2 specification documents are available at Box [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
-Exercises for consuming OpenAPI 3 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPI3 and/or at Github URL https://ibm.biz/BdPbPb.
+Exercises for consuming OpenAPI 3 specification documents are available at Box [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb).
 
-Exercises for the developing of z/OS Connect API Requester applications are available at Box URL https://ibm.box.com/v/WSC-APIRequester and/or Github URL https://ibm.biz/BdPbPp.
+Exercises for the developing of z/OS Connect API Requester applications are available at Box [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
 
-Exercises related to the administration and security of z/OS Connect servers are available at Box URL https://ibm.box.com/v/WSC-AdminSecurity and/or Github URL https://ibm.biz/BdPbPg
+Exercises related to the administration and security of z/OS Connect servers are available at Box [here](https://ibm.box.com/v/WSC-AdminSecurity) and/or Github [here](https://ibm.biz/BdPbPg).
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view them locally.
 
