@@ -12,15 +12,13 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems.
 
-Developing and deploying IBM z/OS Connect artifacts for accessing z/OS resources  using z/OS Connects API requester tooling.
+Exercises for generating OpenAPI 2 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
-Exercises for generating OpenAPI 2 specification documents are available at Box [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
+Exercises for consuming OpenAPI 3 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb).
 
-Exercises for consuming OpenAPI 3 specification documents are available at Box [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb).
+Exercises for the developing of z/OS Connect API Requester applications are available at Box@IBM [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
 
-Exercises for the developing of z/OS Connect API Requester applications are available at Box [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
-
-Exercises related to the administration and security of z/OS Connect servers are available at Box [here](https://ibm.box.com/v/WSC-AdminSecurity) and/or Github [here](https://ibm.biz/BdPbPg).
+Exercises related to the administration and security of z/OS Connect servers are available at Box@IBM [here](https://ibm.box.com/v/WSC-AdminSecurity) and/or Github [here](https://ibm.biz/BdPbPg).
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view them locally.
 
