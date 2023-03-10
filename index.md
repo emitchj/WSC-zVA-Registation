@@ -13,8 +13,10 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems.
 
 Developing and deploying IBM z/OS Connect artifacts for accessing z/OS resources  using z/OS Connects API requester tooling.
-o	Exercises for generating OpenAPI 2 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPi2  and/or at Github URL https://ibm.biz/BdPbPs.
-o	Exercises for consuming OpenAPI 3 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPI3 and/or at Github URL https://ibm.biz/BdPbPb.
+
+Exercises for generating OpenAPI 2 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPi2  and/or at Github URL https://ibm.biz/BdPbPs.
+
+Exercises for consuming OpenAPI 3 specification documents are available at Box URL https://ibm.box.com/v/WSC-OpenAPI3 and/or at Github URL https://ibm.biz/BdPbPb.
 
 
 The lab instructions for OpenAPI3 exercises are in the "Exercices for OpenAPI3" folder on your remote desktop or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) to view them localy.
