@@ -10,7 +10,9 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems.
+Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems from your workstation.
+
+Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zva/Important-Read%20Me.pdf) for important informaiton regarding credentials for accessing z/OS, the Designer containers as well as informaiton how how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
 
 Exercises for generating OpenAPI 2 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
