@@ -16,7 +16,7 @@ Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zv
 
 Exercises for generating OpenAPI 2 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
-Exercises for consuming OpenAPI 3 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb). All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance.
+Exercises for consuming OpenAPI 3 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb). All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance. Note that this will require the use of different ports and context roots when testing the APIs.
 
 Exercises for the developing of z/OS Connect API Requester applications are available at Box@IBM [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
 
