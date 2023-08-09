@@ -12,11 +12,11 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 Click [here](https://github.com/emitchj/WSC-zVA-Registation/blob/gh-pages/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for accessing the IBM systems from your workstation.
 
-Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zva/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS, the Designer containers as well as the 3270 emulator (Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as information on how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
+Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI2/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS, the Designer containers as well as the 3270 emulator (Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as information on how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
 
-Exercises for generating OpenAPI 2 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
+Exercises for generating OpenAPI 2 specification documents are available at at Github [here]([(https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2)].
 
-Exercises for consuming OpenAPI 3 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb). All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance. Note that this will require the use of different ports and context roots when testing the APIs.
+Exercises for consuming OpenAPI 3 specification documents are available  at Github [here]([https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3))]. All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance. Note that this will require the use of different ports and context roots when testing the APIs.
 
 Exercises for the developing of z/OS Connect API Requester applications are available at Box@IBM [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
 
