@@ -22,7 +22,7 @@ Exercises for the developing of z/OS Connect API Requester applications are avai
 
 Exercises related to the administration and security of z/OS Connect servers are available at Github [here](https://ibm.biz/BdPbPg).
 
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity) to view them locally.
+The server XML configuration files referenced in the exercises can be downloaded from Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity) to view them locally.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
