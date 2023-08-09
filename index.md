@@ -20,7 +20,7 @@ Exercises for consuming OpenAPI 3 specification documents are available  at Gith
 
 Exercises for the developing of z/OS Connect API Requester applications are available at Github [here]([https://ibm.biz/BdPbPp](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters).
 
-Exercises related to the administration and security of z/OS Connect servers are available at Box@IBM [here](https://ibm.box.com/v/WSC-AdminSecurity) and/or Github [here](https://ibm.biz/BdPbPg).
+Exercises related to the administration and security of z/OS Connect servers are available at Github [here](https://ibm.biz/BdPbPg).
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity) to view them locally.
 
