@@ -18,11 +18,11 @@ Exercises for generating OpenAPI 2 specification documents are available at at G
 
 Exercises for consuming OpenAPI 3 specification documents are available  at Github [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3) All the z/OS Connect Designer instances are configured with the exact same support for CICS, Db2 or IMS. So, if you want to repeat a specific OpenAPI3 exercise, just use another Designer instance. Note that this will require the use of different ports and context roots when testing the APIs.
 
-Exercises for the developing of z/OS Connect API Requester applications are available at Box@IBM [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
+Exercises for the developing of z/OS Connect API Requester applications are available at Github [here]([https://ibm.biz/BdPbPp](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters).
 
 Exercises related to the administration and security of z/OS Connect servers are available at Box@IBM [here](https://ibm.box.com/v/WSC-AdminSecurity) and/or Github [here](https://ibm.biz/BdPbPg).
 
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view them locally.
+The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/AdminSecurity) to view them locally.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
