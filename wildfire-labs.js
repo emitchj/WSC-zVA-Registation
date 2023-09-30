@@ -38,7 +38,7 @@ function getLab(email) {
         table_data += '<h5>Using a web browser </h5>';
         table_data += '<p>Enter this URL address in the browser’s URL area: <br><mark>'+lines[index][1]+'</mark></p>';
         table_data += '<p>Authentication with username: <mark>'+lines[index][2]+'</mark></p>';
-        table_data += '<p>Using password: <mark>'+lines[index][5]+'</mark></p>';
+        table_data += '<p>Using password: <mark>'+lines[index][3]+'</mark></p>';
 
         table_data += '<h5>During the lab</h5>';
         table_data += '<p>When the password for USER1 is required, enter <mark>USER1</mark>  (USER1 is a RACF identity)</p>';
