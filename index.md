@@ -41,4 +41,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) (mitchj@us.ibm.com) and I and/or others will help you sort it out.
+Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) or [John Brefach](mailto: John.J.Brefach@ibm.com)  and I and/or John and others will help you sort it out.
