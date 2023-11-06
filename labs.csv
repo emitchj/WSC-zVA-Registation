@@ -1,6 +1,6 @@
 IBM z/OS Connect EE Workshop,,,,,,,,,
 Serial No,URL,User ID for Web browser,Password,Domain,machine #,,,,
-42ee733d36ce9b2c64960a5259440817,https://T-11107-169-59-184-69.ibmztrialmachines.com/,Administrator,CbN15nhyyq39t9aggm0o,w-5240-k,5240,,,,mitchj@us.ibm.com
+,https://T-11107-169-59-184-69.ibmztrialmachines.com/,Administrator,CbN15nhyyq39t9aggm0o,w-5240-k,5240,,,,mitchj@us.ibm.com
 b81ddf912b859ddeec337d54c9d920be,https://T-11093-169-59-184-41.ibmztrialmachines.com/,Administrator,ne4fMmpa9cdvaqCQPm0B,w-5243-k,5243,,,,Steven.castelino@rrb.gov
 cf17bf582f62edb6ddd1a51e98e98e55,https://T-11100-169-59-184-106.ibmztrialmachines.com/,Administrator,oGfm4hmdf5froMB4mkVB,w-5247-k,5247,,,,Amr.khafagy@kyndryl.com
 b81ddf912b859ddeec337d54c9d920be,https://T-11102-169-59-184-58.ibmztrialmachines.com/,Administrator,hKQYHENhzubQ3QG8ZfoC,w-5253-k,5253,,,,Shivanag.Muppala@ibm.com
@@ -21,7 +21,7 @@ d335595ace4b86a7225f157aadcb619c,https://T-11114-169-59-184-147.ibmztrialmachine
 7795fa1cbcf91365993509fefd811c98,https://T-11134-169-59-184-47.ibmztrialmachines.com/,Administrator,vNLKSzVUe2em8t5SnHV7,w-5258-k,5258,,,,Sudhagar.Natarajan@aexp
 ,https://T-11122-169-59-184-195.ibmztrialmachines.com/,Administrator,UpgzDcAjIj2rZHe3e5mE,w-5255-k,5255,,,,
 ,https://T-11087-169-59-184-28.ibmztrialmachines.com/,Administrator,57RM1aYTulc5jcPrrWNA,w-5239-k,5239,,,,
-,https://T-11099-169-59-184-44.ibmztrialmachines.com/,Administrator,aFwoO92fd8KDByr6ss9G,w-5249-k,5249,,,,
+42ee733d36ce9b2c64960a5259440817,https://T-11099-169-59-184-44.ibmztrialmachines.com/,Administrator,aFwoO92fd8KDByr6ss9G,w-5249-k,5249,,,,
 ,https://T-11103-169-59-184-73.ibmztrialmachines.com/,Administrator,4zqLsQqL6RkKM60zzJHH,11103,5251,,,,
 ,https://T-11096-169-59-184-96.ibmztrialmachines.com/,Administrator,XSBGRdm9PL9Skaz1ZpNa,11096,5231,,,,
 ,https://T-11094-169-59-184-99.ibmztrialmachines.com/,Administrator,ekqBsvS0ArYvYAnyAGHZ,11094,5254,,,,
